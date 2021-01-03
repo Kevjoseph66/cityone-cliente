@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "14836791764",
+    "firebase_url": "https://cityone-94bc0.firebaseio.com",
+    "project_id": "cityone-94bc0",
+    "storage_bucket": "cityone-94bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14836791764:android:4f16d23cba504a23867e41",
+        "android_client_info": {
+          "package_name": "com.cityone.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14836791764-c37ianp0mnsmt3m7tbgq3vmu81d43f3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_Su-pGT2y0lhw2fV_HrG7Y5gVu32jUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14836791764-c37ianp0mnsmt3m7tbgq3vmu81d43f3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14836791764:android:ef797f5941c23cdc867e41",
+        "android_client_info": {
+          "package_name": "com.cityone.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14836791764-c37ianp0mnsmt3m7tbgq3vmu81d43f3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_Su-pGT2y0lhw2fV_HrG7Y5gVu32jUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14836791764-c37ianp0mnsmt3m7tbgq3vmu81d43f3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14836791764:android:cf2364305612b1d1867e41",
+        "android_client_info": {
+          "package_name": "com.cityone.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14836791764-c37ianp0mnsmt3m7tbgq3vmu81d43f3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_Su-pGT2y0lhw2fV_HrG7Y5gVu32jUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14836791764-c37ianp0mnsmt3m7tbgq3vmu81d43f3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
